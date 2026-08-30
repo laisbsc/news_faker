@@ -32,8 +32,6 @@ Use Python to analyse and recreate fake news headlines using Markov Chain system
     - [FakeNewsNet](https://arxiv.org/abs/1809.01286) A Data Repository with News Content, Social Context and Spatialtemporal Information for Studying Fake News on Social Media
     
 
-[comment]: <> (API key = 1ff8071aaff84b0eba4ac4335456ddb7 ) not useful!
-
 Data BS from here: https://www.kaggle.com/mrisdal/fake-news
 
 ## Want a better fake news generator? What about a Fake Trump Tweeter? [Filip](https://twitter.com/filiphracek/status/708021106188288001) got you covered!
