@@ -9,4 +9,9 @@ The [Jupyter Notebook](https://github.com/laisbsc/news_faker/blob/main/fake-news
 * [What about a Fake Trump Tweeter now?](http://filiph.github.io/markov/)
 * [Generate fake news headlines with Python](http://veekaybee.github.io/2015/08/24/markov-in-python/)
 
-This repo uses a `conda virtual environment` with `Python 3.8`.
+This repo uses [uv](https://docs.astral.sh/uv/) with `Python 3.12`.
+
+```bash
+uv sync
+uv run jupyter lab fake-news-gen.ipynb
+```
